@@ -1,0 +1,142 @@
+.loder-parallax {
+  /* The image used */
+  background-image: url("../images/IMG-20191104-WA0005.JPG");
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  .about-parallax {
+    /* The image used */
+    background-image: url("../images/IMG-20191104-WA0006.JPG");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .module-parallax {
+    /* The image used */
+    background-image: url("../images/DSC01508-full-74-89.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .testimonial-parallax1 {
+    /* The image used */
+    background-image: url("../images/IMG-20191206-WA0010.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    
+  }
+  .testimonial-parallax2 {
+    /* The image used */
+    background-image: url("../images/IMG-20191206-WA0009.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    
+  }
+  .testimonial-parallax3 {
+    /* The image used */
+    background-image: url("../images/IMG-20191206-WA0008.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    
+  }
+  .testimonial-parallax4 {
+    /* The image used */
+    background-image: url("../images/IMG-20191206-WA0006.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    
+  }
+  .testimonial-parallax5 {
+    /* The image used */
+    background-image: url("../images/IMG-20191206-WA0005.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    
+  }
+  .testimonial-parallax6 {
+    /* The image used */
+    background-image: url("../images/IMG-20191206-WA0004.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    
+  }
+  .testimonial-parallax7 {
+    /* The image used */
+    background-image: url("../images/IMG-20191206-WA0003.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    
+  }
+  .testimonial-parallax8 {
+    /* The image used */
+    background-image: url("../images/IMG-20191206-WA0002.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    
+  }
+  .testimonial-parallax9 {
+    /* The image used */
+    background-image: url("../images/IMG-20191206-WA0000.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    
+  }
+
+  ._ol {
+    background: darkslategray;
+    padding: 20px;
+  }
+  
+  ._ul {
+    background: darkslategray;
+    padding: 20px;
+  }
+  
+  ._ol li {
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+  }
+  
+  ._ul li {
+    background: #cce5ff;
+    margin: 5px;
+  }
